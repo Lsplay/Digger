@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(43,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(43,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(53,14): warning C4244: инициализация: преобразование "sf::Int32" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(84,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(84,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(115,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(115,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(157,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(157,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(230,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(230,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(237,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(237,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(244,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\lspla\Desktop\С++\Digger\Digger\Source.cpp(244,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Digger.vcxproj -> C:\Users\lspla\Desktop\С++\Digger\x64\Debug\Digger.exe
